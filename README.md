@@ -21,3 +21,4 @@ A lightweight, responsive, and user-friendly web application that allows users t
  
 ---
 <img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/ec0cfab6-8ec5-4be1-95ff-2dfe3d6dea1e" />
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/d0c1d9b9-a028-4f4c-8f4f-db97fcd7eeaa" />
