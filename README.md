@@ -20,4 +20,4 @@ A lightweight, responsive, and user-friendly web application that allows users t
 - **JavaScript (ES6)** – Interactivity and API calls  
  
 ---
-
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/ec0cfab6-8ec5-4be1-95ff-2dfe3d6dea1e" />
